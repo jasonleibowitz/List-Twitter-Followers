@@ -10,3 +10,4 @@ This is a command line utility which outputs a csv for a given user's "following
 5. Start the app with `npm start` and follow the on-screen instructions.
 
 ## See it in Action
+![See it in action](http://lei.bo/vrIrMr)
