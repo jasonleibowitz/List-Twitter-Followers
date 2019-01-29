@@ -4,7 +4,7 @@
   "description": "Output a CSV of any Twitter user's following list",
   "main": "main.js",
   "scripts": {
-    "run": "node main.js"
+    "start": "node main.js"
   },
   "author": "Jason Leibowitz",
   "license": "MIT",
